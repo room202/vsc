@@ -17,10 +17,7 @@ https://code.visualstudio.com/download
 ダウンロードしたファイルを実行  
 ![](images/003.png)
 
-`同意する`にチェックを入れる  
-![](images/004.png)
-
-`次へ`をクリック  
+`同意する`にチェックを入れて`次へ`をクリック    
 ![](images/005.png)
 
 `次へ`をクリック  
@@ -29,13 +26,10 @@ https://code.visualstudio.com/download
 `次へ`をクリック  
 ![](images/007.png)
 
-下記にチェックを入れる
+下記にチェックを入れて`次へ`をクリック  
  - `デスクトップ上にアイコンを作成する`
  - `エクスプローラーのディレクトリコンテキストメニューに[Codeで開く]アクションを追加する`
 
-![](images/008.png)
-
-`次へ`をクリック  
 ![](images/009.png)
 
 `インストール`をクリック  
@@ -52,11 +46,7 @@ https://code.visualstudio.com/download
 `< Welcome`の`<`の部分をクリック  
 ![](images/013.png)
 
-`Show welcome page on startup`のチェックを外す  
-![](images/014.png)
-
-
-`Welcome`タブの`✕`ボタンをクリックして閉じる  
+`Show welcome page on startup`のチェックを外して、`Welcome`タブの`✕`ボタンをクリックして閉じる    
 ![](images/015.png)
 
 ## 日本語化
@@ -64,10 +54,7 @@ https://code.visualstudio.com/download
 `拡張機能`ボタンをクリック  
 ![](images/016.png)
 
-検索エリアに`japanese`と入力する  
-![](images/017.png)
-
-`Japanese Language Pack for Visual Studio Code`の`Install`ボタンをクリックする  
+検索エリアに`japanese`と入力するして、  `Japanese Language Pack for Visual Studio Code`の`Install`ボタンをクリックする  
 ![](images/018.png)
 
 インストール完了後、右下の`Change Language and Restart`をクリックする
@@ -91,9 +78,7 @@ https://code.visualstudio.com/download
 メニューバーから`ファイル`→`ユーザー設定`→`設定`  
 ![](images/023.png)
 
-検索エリアに`Mouse Wheel Zoom`と入力する  
-![](images/024.png)
-
+`設定の検索`エリアに`Mouse Wheel Zoom`と入力して、  
 下記項目にチェックを入れる
  - `Editor: Mouse Wheel Zoom`
  - `Terminal › Integrated: Mouse Wheel Zoom`
