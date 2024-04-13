@@ -54,7 +54,7 @@ https://code.visualstudio.com/download
 `拡張機能`ボタンをクリック  
 ![](images/016.png)
 
-検索エリアに`japanese`と入力するして、  `Japanese Language Pack for Visual Studio Code`の`Install`ボタンをクリックする  
+検索エリアに`japanese`と入力して、  `Japanese Language Pack for Visual Studio Code`の`Install`ボタンをクリックする  
 ![](images/018.png)
 
 インストール完了後、右下の`Change Language and Restart`をクリックする
