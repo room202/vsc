@@ -35,7 +35,7 @@ https://code.visualstudio.com/download
 `インストール`をクリック  
 ![](images/010.png)
 
-インストールされるので少し待つ
+インストールされるので少し待つ  
 ![](images/011.png)
 
 `完了`をクリック  
