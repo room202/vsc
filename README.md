@@ -82,16 +82,27 @@ https://code.visualstudio.com/download
 
 ### 自動保存を有効化
 
-[ファイル]→[自動保存]をクリック  
+メニューバーから`ファイル`→`自動保存`をクリック  
+![](images/021.png)
+
+自動保存が有効化される  
+![](images/022.png)
 
 
 ### フォントの拡大縮小有効化
 
-[ファイル]→[ユーザー設定]→[設定]
+メニューバーから`ファイル`→`ユーザー設定`→`設定`  
+![](images/023.png)
 
-`Mouse Wheel Zoom`で検索
+検索エリアに`Mouse Wheel Zoom`と入力する  
+![](images/024.png)
 
 下記項目にチェックを入れる
+ - `Editor: Mouse Wheel Zoom`
+ - `Terminal › Integrated: Mouse Wheel Zoom`
 
-`Editor: Mouse Wheel Zoom`
-`Terminal › Integrated: Mouse Wheel Zoom`
+![](images/025.png)
+
+
+設定タブの`✕`ボタンを押して閉じる  
+![](images/026.png)
