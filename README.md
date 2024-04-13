@@ -12,7 +12,6 @@ https://code.visualstudio.com/download
 `ダウンロード`フォルダに保存する  
 ![](images/002.png)
 
-
 ### インストール
 
 ダウンロードしたファイルを実行  
@@ -77,7 +76,6 @@ https://code.visualstudio.com/download
 日本語化完了  
 ![](images/020.png)
 
-
 ## 便利設定
 
 ### 自動保存を有効化
@@ -87,7 +85,6 @@ https://code.visualstudio.com/download
 
 自動保存が有効化される  
 ![](images/022.png)
-
 
 ### フォントの拡大縮小有効化
 
@@ -103,6 +100,5 @@ https://code.visualstudio.com/download
 
 ![](images/025.png)
 
-
-設定タブの`✕`ボタンを押して閉じる  
+設定タブの`✕`ボタンをクリックして閉じる  
 ![](images/026.png)
