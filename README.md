@@ -78,8 +78,7 @@ https://code.visualstudio.com/download
 メニューバーから`ファイル`→`ユーザー設定`→`設定`  
 ![](images/023.png)
 
-`設定の検索`エリアに`Mouse Wheel Zoom`と入力して、  
-下記項目にチェックを入れる
+`設定の検索`エリアに`Mouse Wheel Zoom`と入力して、下記項目にチェックを入れる  
  - `Editor: Mouse Wheel Zoom`
  - `Terminal › Integrated: Mouse Wheel Zoom`
 
