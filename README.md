@@ -99,31 +99,43 @@ settings.json
 - ユーザー設定用の設定ファイル
 - 保存先
   - `%APPDATA%\Code\User\`
+  - `~/Library/Application Support/Code/User/`
+
+.code-workspaceファイル
+- ワークスペース設定用の設定ファイル
+- 保存先
+  - ワークスペースとして保存される
+  - 中身はsettings.jsonで、先に優先される
 
 keybindings.json
 - キーボードショートカットのカスタマイズやオーバーライドを行うファイル。
 - 保存先
   - `%APPDATA%\Code\User\`
+  - `~/Library/Application Support/Code/User/`
 
 launch.json
 - デバッグ設定を管理するファイル。  デバッガの起動設定やデバッグ環境変数の設定などを行います。
 - 保存先
   - `%USERPROFILE%\.vscode\`
+  - `~/.vscode/`
 
 tasks.json
 - ビルド、テストなどのタスク実行設定を管理するファイル。  ターミナルでの実行コマンドやタスクの自動化を設定できます。
 - 保存先
   - `%USERPROFILE%\.vscode\`
+  - `~/.vscode/`
 
 extensions.json
 - インストール済みの拡張機能の一覧とその設定を管理するファイル。
 - 保存先
   - `%USERPROFILE%\.vscode\`
+  - `~/.vscode/`
 
 snippets.json
 - スニペットの定義とカスタマイズを行うファイル。  よく使うコード断片をショートカットとして登録できます。
 - 保存先
   - ユーザースニペット: `%USERPROFILE%\.vscode\snippets\{言語ID}.json`
+    - `~/.vscode/snippets/{言語ID}.json`
   - ワークスペーススニペット: `{ワークスペースフォルダ}\.vscode\snippets\{言語ID}.json`
 
 これらのJSONファイルは、ユーザーフォルダ(.vscode)やワークスペースフォルダ直下の.vscodeフォルダに保存されます。
