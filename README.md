@@ -86,3 +86,46 @@ https://code.visualstudio.com/download
 
 設定タブの`✕`ボタンをクリックして閉じる  
 ![](images/026.png)
+
+## 個人メモ
+
+環境変数
+
+`%APPDATA%` : `C:\Users\【ユーザー名】\AppData\Roaming\`
+
+`%USERPROFILE%` : `C:\Users\【ユーザー名】\`
+
+settings.json
+- ユーザー設定用の設定ファイル
+- 保存先
+  - `%APPDATA%\Code\User\`
+
+keybindings.json
+- キーボードショートカットのカスタマイズやオーバーライドを行うファイル。
+- 保存先
+  - `%APPDATA%\Code\User\`
+
+launch.json
+- デバッグ設定を管理するファイル。  デバッガの起動設定やデバッグ環境変数の設定などを行います。
+- 保存先
+  - `%USERPROFILE%\.vscode\`
+
+tasks.json
+- ビルド、テストなどのタスク実行設定を管理するファイル。  ターミナルでの実行コマンドやタスクの自動化を設定できます。
+- 保存先
+  - `%USERPROFILE%\.vscode\`
+
+extensions.json
+- インストール済みの拡張機能の一覧とその設定を管理するファイル。
+- 保存先
+  - `%USERPROFILE%\.vscode\`
+
+snippets.json
+- スニペットの定義とカスタマイズを行うファイル。  よく使うコード断片をショートカットとして登録できます。
+- 保存先
+  - ユーザースニペット: `%USERPROFILE%\.vscode\snippets\{言語ID}.json`
+  - ワークスペーススニペット: `{ワークスペースフォルダ}\.vscode\snippets\{言語ID}.json`
+
+これらのJSONファイルは、ユーザーフォルダ(.vscode)やワークスペースフォルダ直下の.vscodeフォルダに保存されます。
+
+プロジェクト単位でカスタマイズしたい設定は、ワークスペースの設定ファイルを編集します。
